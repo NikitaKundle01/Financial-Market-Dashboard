@@ -1,6 +1,7 @@
 # 📈 Real-Time Financial Market Dashboard
 
-![Dashboard Screenshot](![image](https://github.com/user-attachments/assets/588612ea-110c-48de-83bb-6e37628ccc56))
+![image](https://github.com/user-attachments/assets/bb54a071-f46e-40f6-a7d0-408ef17c2f85)
+
  
 *Replace with actual screenshot after deployment*
 
