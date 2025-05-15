@@ -1,6 +1,7 @@
 # 📈 Real-Time Financial Market Dashboard
 
-![Dashboard Screenshot](https://via.placeholder.com/800x400?text=Financial+Dashboard+Screenshot) 
+![Dashboard Screenshot](![image](https://github.com/user-attachments/assets/588612ea-110c-48de-83bb-6e37628ccc56))
+ 
 *Replace with actual screenshot after deployment*
 
 A powerful real-time financial analytics dashboard that demonstrates end-to-end data processing from ingestion to visualization using Python, Streamlit, and Yahoo Finance API.
