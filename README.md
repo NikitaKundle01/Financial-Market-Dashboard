@@ -122,5 +122,4 @@ Project Link: https://github.com/NikitaKundle01/Financial-Market-Dashboard
 To add badges, you can include lines like this at the top of your README:
 ```markdown
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)]()
-[![License](https://img.shields.io/badge/license-MIT-green)]()
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.22.0-orange)]()
