@@ -88,19 +88,6 @@ Technical Indicators: RSI, Volatility, Bollinger Bands
 
 Correlation Analysis: Heatmap of asset correlations
 
-## 🤝 Contributing
-Contributions are welcome! Please follow these steps:
-
-Fork the project
-
-Create your feature branch (git checkout -b feature/AmazingFeature)
-
-Commit your changes (git commit -m 'Add some amazing feature')
-
-Push to the branch (git push origin feature/AmazingFeature)
-
-Open a Pull Request
-
 ## 📧 Contact
 Nikita Kundle -  - kundlenikita@gmail.com
 
