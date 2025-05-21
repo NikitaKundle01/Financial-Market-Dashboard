@@ -107,19 +107,4 @@ Nikita Kundle -  - kundlenikita@gmail.com
 Project Link: https://github.com/NikitaKundle01/Financial-Market-Dashboard
 
 
-### Additional notes:
 
-1. Replace the placeholder screenshot with an actual screenshot after you deploy your dashboard
-2. Update the contact information with your details
-3. Add a LICENSE file if you want to use a different license
-4. You may want to add a "Roadmap" or "Future Features" section if you plan to expand the project
-5. For a more professional look, consider adding badges from shields.io for:
-   - Build status
-   - Python version
-   - License
-   - Downloads
-
-To add badges, you can include lines like this at the top of your README:
-```markdown
-[![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)]()
-[![Streamlit](https://img.shields.io/badge/Streamlit-1.22.0-orange)]()
